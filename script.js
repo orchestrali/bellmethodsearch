@@ -34,6 +34,36 @@ function displaymethods(arr) {
 }
 
 
+
+function relatedmethods(o) {
+  //"same" method at different stages
+  //same name + class with different stage is easy
+  //what about alternate extensions
+
+  //different lead end and/or half lead
+
+  //named rotation? not many of these
+
+  //reverse
+
+  //double or single version
+
+  //trivial variations
+
+  //shared place bells
+
+  //same work above, below
+}
+
+
+
+
+
+
+
+/* **** BELLRINGING STUFF **** */
+
+
 //convert bell characters to numbers
 function bellnum(n) {
   return places.indexOf(n)+1;

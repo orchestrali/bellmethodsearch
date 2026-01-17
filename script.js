@@ -34,7 +34,9 @@ function displaymethods(arr) {
 }
 
 
-
+//what is my overall strategy?
+//do I take a method, produce a bunch of variations, and search for those?
+//or take a method and compare it to a bunch of others?
 function relatedmethods(o) {
   //"same" method at different stages
   //same name + class with different stage is easy
@@ -50,9 +52,11 @@ function relatedmethods(o) {
 
   //trivial variations
 
+  //same work above, below
+
   //shared place bells
 
-  //same work above, below
+  //what about things like an extra hunt bell
 }
 
 

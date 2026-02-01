@@ -1,0 +1,14 @@
+
+
+body {
+  margin: 8px;
+}
+
+body,
+input,
+select,
+textarea {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
